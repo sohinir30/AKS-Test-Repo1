@@ -1,0 +1,10 @@
+{
+    "tree": [
+        {
+            "path": "path",
+            "mode": "100644",
+            "type": "type",
+            "content": "content"
+        }
+    ]
+}
